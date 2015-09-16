@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:16:21.897187
-#+TITLE: 廣成集
-#+PROPERTY: DZID  DZ0616
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，11—231 十七卷 洞玄部表奏類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
