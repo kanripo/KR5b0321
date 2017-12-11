@@ -4,7 +4,6 @@
 #+PROPERTY: BASEEDITION HFL
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
-
 <md:KR5b0321_HFL_001-001a>¶
 <pb:KR5b0321_SBCK_001-1a>
 廣成集卷之一
@@ -363,7 +362,3 @@
 不任之至¶¶¶
 廣成集卷之一<md:KR5b0321_HFL_001-017b>¶
 <pb:KR5b0321_SBCK_001-17b>
-<md:KR5b0321_HFL_002-001a>¶
-<pb:KR5b0321_SBCK_002-1a>
-廣成集卷之二　敢二¶
-　　　　　上都太清宮内供奉應制文章大徳
